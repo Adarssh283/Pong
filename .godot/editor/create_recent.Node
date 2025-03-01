@@ -1,0 +1,15 @@
+AudioStreamPlayer2D
+WorldEnvironment
+ColorRect
+VBoxContainer
+Button
+Control
+Label
+Sprite2D
+RichTextLabel
+CanvasModulate
+TextEdit
+SubViewport
+VisibleOnScreenNotifier2D
+CollisionShape2D
+Area2D
